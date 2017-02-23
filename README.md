@@ -4,8 +4,7 @@ Task app for organizing daily routine
 
 ##Starting locally
 
-```npm install
-```
-
-```npm start
+```javascript
+npm install
+npm start
 ```
